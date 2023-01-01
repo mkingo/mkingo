@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Streamlit.
-- 🌱 I’m currently learning Many Things.
+- 🔭 I’m currently working on Angular.
+- 🌱 I’m currently learning Full Stack Development.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Web development.
+- 🤔 I’m looking for opportunities with Web development.
 - 💬 Ask me about Python programming.
 - 📫 How to reach me: twitter : [LokhandwalaMoiz](https://twitter.com/LokhandwalaMoi1) ,
                        instagram : [LokhandwalaMoiz](https://www.instagram.com/l_moiz/)
